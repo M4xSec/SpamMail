@@ -22,7 +22,9 @@
 * python3 SpamMail.py
 
 # Usage 🙋🏻‍♀️
-*        ./install.sh
+*        python3 SpamMail.py
+*        Paste the mails which you wanna check in: check_mails.txt
+*        Get Valid Mails in: valid_mails.txt
 
 # TESTED ON FOLLOWING:👌🏻-
 * Kali Linux - 2020.1a (version)👍🏻
