@@ -82,7 +82,7 @@ def check(addressToVerify):
 
 # Email address to verify
 banner()
-slowprint("            \033[01m\033[33m   >>>- cOdEd By: MAX MILL -<<<\033[00m\033[00m")
+slowprint("            \033[01m\033[33m   >>>- cOdEd By: Predator0x300 -<<<\033[00m\033[00m")
 slowprint("    \033[04m\033[33m         >>>--- predator0x300@gmail.com --->>>               \033[00m\033[00m")
 slowprint("      \033[01m\033[33m >>>--- GitHub:\033[31m  https://github.com/Predator0x300 \033[00m\033[33m ---<<<\033[00m\033[00m")
 print("\n")
