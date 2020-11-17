@@ -1,4 +1,4 @@
-<h1>Infection 💀</h1>
+<h1>SpamMail 💀</h1>
 <center><a href="https://github.com/predator0x300/SpamMail"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" style="max-width:100%;"></a></center>
 <p align="center">
   <b> Follow on Social Media Platforms </b>
@@ -8,6 +8,7 @@
 </p>
 
 # ScreenShots👨🏼‍💻
+![Screenshot from 2020-11-18 07-46-49](https://user-images.githubusercontent.com/57313495/99399751-1692d500-290c-11eb-9c19-cdcc493cbe8e.png)
 
 
 
